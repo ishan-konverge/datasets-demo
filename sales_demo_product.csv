@@ -1,0 +1,196 @@
+date,product,sales
+2021-01-03,Rain Jacket,122131.0
+2021-01-03,Windbreaker,346840.0
+2021-01-03,Trench Coat,569154.0
+2021-01-10,Rain Jacket,130211.0
+2021-01-10,Windbreaker,378110.0
+2021-01-10,Trench Coat,645512.0
+2021-01-17,Rain Jacket,134102.0
+2021-01-17,Windbreaker,393129.0
+2021-01-17,Trench Coat,677627.0
+2021-01-24,Rain Jacket,140685.0
+2021-01-24,Windbreaker,425993.0
+2021-01-24,Trench Coat,707081.0
+2021-01-31,Rain Jacket,151545.0
+2021-01-31,Windbreaker,457656.0
+2021-01-31,Trench Coat,758592.0
+2021-02-07,Rain Jacket,157501.0
+2021-02-07,Windbreaker,447613.0
+2021-02-07,Trench Coat,743070.0
+2021-02-14,Rain Jacket,152930.0
+2021-02-14,Windbreaker,464079.0
+2021-02-14,Trench Coat,765936.0
+2021-02-21,Rain Jacket,161602.0
+2021-02-21,Windbreaker,466416.0
+2021-02-21,Trench Coat,794329.0
+2021-02-28,Rain Jacket,164194.0
+2021-02-28,Windbreaker,481698.0
+2021-02-28,Trench Coat,799576.0
+2021-03-07,Rain Jacket,164745.0
+2021-03-07,Windbreaker,470592.0
+2021-03-07,Trench Coat,779564.0
+2021-03-14,Rain Jacket,162918.0
+2021-03-14,Windbreaker,475869.0
+2021-03-14,Trench Coat,829521.0
+2021-03-21,Rain Jacket,164547.0
+2021-03-21,Windbreaker,477471.0
+2021-03-21,Trench Coat,796253.0
+2021-03-28,Rain Jacket,156576.0
+2021-03-28,Windbreaker,460660.0
+2021-03-28,Trench Coat,790896.0
+2021-04-04,Rain Jacket,156930.0
+2021-04-04,Windbreaker,463409.0
+2021-04-04,Trench Coat,813271.0
+2021-04-11,Rain Jacket,164437.0
+2021-04-11,Windbreaker,486115.0
+2021-04-11,Trench Coat,797093.0
+2021-04-18,Rain Jacket,165129.0
+2021-04-18,Windbreaker,478090.0
+2021-04-18,Trench Coat,801662.0
+2021-04-25,Rain Jacket,158499.0
+2021-04-25,Windbreaker,472822.0
+2021-04-25,Trench Coat,801300.0
+2021-05-02,Rain Jacket,160059.0
+2021-05-02,Windbreaker,476177.0
+2021-05-02,Trench Coat,797878.0
+2021-05-09,Rain Jacket,157540.0
+2021-05-09,Windbreaker,479674.0
+2021-05-09,Trench Coat,788698.0
+2021-05-16,Rain Jacket,151706.0
+2021-05-16,Windbreaker,454227.0
+2021-05-16,Trench Coat,772105.0
+2021-05-23,Rain Jacket,153934.0
+2021-05-23,Windbreaker,471458.0
+2021-05-23,Trench Coat,780126.0
+2021-05-30,Rain Jacket,155092.0
+2021-05-30,Windbreaker,444081.0
+2021-05-30,Trench Coat,764661.0
+2021-06-06,Rain Jacket,143615.0
+2021-06-06,Windbreaker,435339.0
+2021-06-06,Trench Coat,743580.0
+2021-06-13,Rain Jacket,139470.0
+2021-06-13,Windbreaker,409652.0
+2021-06-13,Trench Coat,712188.0
+2021-06-20,Rain Jacket,135827.0
+2021-06-20,Windbreaker,396617.0
+2021-06-20,Trench Coat,674619.0
+2021-06-27,Rain Jacket,124132.0
+2021-06-27,Windbreaker,374474.0
+2021-06-27,Trench Coat,622247.0
+2021-07-04,Rain Jacket,114388.0
+2021-07-04,Windbreaker,331565.0
+2021-07-04,Trench Coat,579075.0
+2021-07-11,Rain Jacket,107121.0
+2021-07-11,Windbreaker,301859.0
+2021-07-11,Trench Coat,495544.0
+2021-07-18,Rain Jacket,91045.0
+2021-07-18,Windbreaker,260290.0
+2021-07-18,Trench Coat,443642.0
+2021-07-25,Rain Jacket,74920.0
+2021-07-25,Windbreaker,222372.0
+2021-07-25,Trench Coat,367030.0
+2021-08-01,Rain Jacket,60477.0
+2021-08-01,Windbreaker,185606.0
+2021-08-01,Trench Coat,314036.0
+2021-08-08,Rain Jacket,47212.0
+2021-08-08,Windbreaker,136639.0
+2021-08-08,Trench Coat,236322.0
+2021-08-15,Rain Jacket,32430.0
+2021-08-15,Windbreaker,97276.0
+2021-08-15,Trench Coat,162727.0
+2021-08-22,Rain Jacket,20294.0
+2021-08-22,Windbreaker,57430.0
+2021-08-22,Trench Coat,97560.0
+2021-08-29,Rain Jacket,7549.0
+2021-08-29,Windbreaker,21531.0
+2021-08-29,Trench Coat,38371.0
+2021-09-05,Rain Jacket,3033.0
+2021-09-05,Windbreaker,8646.0
+2021-09-05,Trench Coat,15083.0
+2021-09-12,Rain Jacket,11254.0
+2021-09-12,Windbreaker,33651.0
+2021-09-12,Trench Coat,57551.0
+2021-09-19,Rain Jacket,18179.0
+2021-09-19,Windbreaker,50206.0
+2021-09-19,Trench Coat,85224.0
+2021-09-26,Rain Jacket,22090.0
+2021-09-26,Windbreaker,63373.0
+2021-09-26,Trench Coat,107136.0
+2021-10-03,Rain Jacket,22871.0
+2021-10-03,Windbreaker,67592.0
+2021-10-03,Trench Coat,115709.0
+2021-10-10,Rain Jacket,21970.0
+2021-10-10,Windbreaker,62382.0
+2021-10-10,Trench Coat,105201.0
+2021-10-17,Rain Jacket,17483.0
+2021-10-17,Windbreaker,53532.0
+2021-10-17,Trench Coat,86246.0
+2021-10-24,Rain Jacket,10832.0
+2021-10-24,Windbreaker,32881.0
+2021-10-24,Trench Coat,55366.0
+2021-10-31,Rain Jacket,2359.0
+2021-10-31,Windbreaker,6766.0
+2021-10-31,Trench Coat,10898.0
+2021-11-07,Rain Jacket,8198.0
+2021-11-07,Windbreaker,24802.0
+2021-11-07,Trench Coat,41364.0
+2021-11-14,Rain Jacket,20412.0
+2021-11-14,Windbreaker,60701.0
+2021-11-14,Trench Coat,103434.0
+2021-11-21,Rain Jacket,33472.0
+2021-11-21,Windbreaker,97670.0
+2021-11-21,Trench Coat,167131.0
+2021-11-28,Rain Jacket,48401.0
+2021-11-28,Windbreaker,138854.0
+2021-11-28,Trench Coat,246071.0
+2021-12-05,Rain Jacket,62382.0
+2021-12-05,Windbreaker,182424.0
+2021-12-05,Trench Coat,311347.0
+2021-12-12,Rain Jacket,77295.0
+2021-12-12,Windbreaker,223788.0
+2021-12-12,Trench Coat,375344.0
+2021-12-19,Rain Jacket,89576.0
+2021-12-19,Windbreaker,266576.0
+2021-12-19,Trench Coat,445734.0
+2021-12-26,Rain Jacket,104188.0
+2021-12-26,Windbreaker,308701.0
+2021-12-26,Trench Coat,523952.0
+2022-01-02,Rain Jacket,114743.0
+2022-01-02,Windbreaker,345098.0
+2022-01-02,Trench Coat,551278.0
+2022-01-09,Rain Jacket,127718.0
+2022-01-09,Windbreaker,379716.0
+2022-01-09,Trench Coat,633763.0
+2022-01-16,Rain Jacket,140644.0
+2022-01-16,Windbreaker,407509.0
+2022-01-16,Trench Coat,632169.0
+2022-01-23,Rain Jacket,136235.0
+2022-01-23,Windbreaker,413539.0
+2022-01-23,Trench Coat,690678.0
+2022-01-30,Rain Jacket,140832.0
+2022-01-30,Windbreaker,422942.0
+2022-01-30,Trench Coat,719033.0
+2022-02-06,Rain Jacket,146246.0
+2022-02-06,Windbreaker,446991.0
+2022-02-06,Trench Coat,728554.0
+2022-02-13,Rain Jacket,151079.0
+2022-02-13,Windbreaker,467198.0
+2022-02-13,Trench Coat,773726.0
+2022-02-20,Rain Jacket,160214.0
+2022-02-20,Windbreaker,486262.0
+2022-02-20,Trench Coat,785336.0
+2022-02-27,Rain Jacket,161340.0
+2022-02-27,Windbreaker,471870.0
+2022-02-27,Trench Coat,802541.0
+2022-03-06,Rain Jacket,161887.0
+2022-03-06,Windbreaker,475162.0
+2022-03-06,Trench Coat,822427.0
+2022-03-13,Rain Jacket,166728.0
+2022-03-13,Windbreaker,476504.0
+2022-03-13,Trench Coat,814570.0
+2022-03-20,Rain Jacket,160749.0
+2022-03-20,Windbreaker,471062.0
+2022-03-20,Trench Coat,776411.0
+2022-03-27,Rain Jacket,162875.0
+2022-03-27,Windbreaker,488638.0
+2022-03-27,Trench Coat,821382.0
